@@ -2,5 +2,6 @@
 
 Iniciando o curso de Git e GitHub
 
-Primeiro repositorio criado para estudo de GitHub
+Primeiro repositório criado para estudo de GitHub
 
+Essa linha eu adicionei diretamente no site
